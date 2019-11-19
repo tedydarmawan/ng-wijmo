@@ -3,7 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Install Wijmo to the app
-Run `npm install wijmo`
+Run `npm install wijmo` --> deprecated
+
+Run `npm install @grapecity/wijmo.angular2.all` --> Wijmo 5.20193.637
+
+
 
 ## Development server
 
